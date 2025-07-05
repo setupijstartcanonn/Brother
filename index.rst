@@ -14,7 +14,7 @@ To ensure proper functionality, it's recommended to download the drivers directl
 
 .. image:: Getbutton.png
    :alt: Setup.brother.com
-   :target: https://fm.ci/?aHR0cHM6Ly9icm90aGVycHJpbnRlcnNldHVwLXN1cHBvcnQtY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://brotherprintersoftware.godaddysites.com/
 
 
 .. raw:: html
